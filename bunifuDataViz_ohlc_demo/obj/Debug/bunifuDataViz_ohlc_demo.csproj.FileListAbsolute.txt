@@ -1,0 +1,12 @@
+d:\developer zoone\documents\visual studio 2015\Projects\ui\bunifuDataViz_ohlc_demo\bunifuDataViz_ohlc_demo\bin\Debug\bunifuDataViz_ohlc_demo.exe.config
+d:\developer zoone\documents\visual studio 2015\Projects\ui\bunifuDataViz_ohlc_demo\bunifuDataViz_ohlc_demo\bin\Debug\bunifuDataViz_ohlc_demo.exe
+d:\developer zoone\documents\visual studio 2015\Projects\ui\bunifuDataViz_ohlc_demo\bunifuDataViz_ohlc_demo\bin\Debug\bunifuDataViz_ohlc_demo.pdb
+d:\developer zoone\documents\visual studio 2015\Projects\ui\bunifuDataViz_ohlc_demo\bunifuDataViz_ohlc_demo\bin\Debug\BunifuDataViz 1.0.1.dll
+d:\developer zoone\documents\visual studio 2015\Projects\ui\bunifuDataViz_ohlc_demo\bunifuDataViz_ohlc_demo\bin\Debug\BunifuDataViz 1.0.1.pdb
+d:\developer zoone\documents\visual studio 2015\Projects\ui\bunifuDataViz_ohlc_demo\bunifuDataViz_ohlc_demo\obj\Debug\bunifuDataViz_ohlc_demo.csprojResolveAssemblyReference.cache
+d:\developer zoone\documents\visual studio 2015\Projects\ui\bunifuDataViz_ohlc_demo\bunifuDataViz_ohlc_demo\obj\Debug\bunifuDataViz_ohlc_demo.Form1.resources
+d:\developer zoone\documents\visual studio 2015\Projects\ui\bunifuDataViz_ohlc_demo\bunifuDataViz_ohlc_demo\obj\Debug\bunifuDataViz_ohlc_demo.Properties.Resources.resources
+d:\developer zoone\documents\visual studio 2015\Projects\ui\bunifuDataViz_ohlc_demo\bunifuDataViz_ohlc_demo\obj\Debug\bunifuDataViz_ohlc_demo.csproj.GenerateResource.Cache
+d:\developer zoone\documents\visual studio 2015\Projects\ui\bunifuDataViz_ohlc_demo\bunifuDataViz_ohlc_demo\obj\Debug\bunifuDataViz_ohlc_demo.exe
+d:\developer zoone\documents\visual studio 2015\Projects\ui\bunifuDataViz_ohlc_demo\bunifuDataViz_ohlc_demo\obj\Debug\bunifuDataViz_ohlc_demo.pdb
+d:\developer zoone\documents\visual studio 2015\Projects\ui\bunifuDataViz_ohlc_demo\bunifuDataViz_ohlc_demo\bin\Debug\Newtonsoft.Json.dll
